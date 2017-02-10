@@ -1,2 +1,2 @@
 # 在老师指导下写出的C#计算器程序，VS打开就能直接用了
-![image text](jisuanqi/image.png)
+![Image text](https://raw.github.com/zhongjidalao/jisuanqi/master/test.jpg)
