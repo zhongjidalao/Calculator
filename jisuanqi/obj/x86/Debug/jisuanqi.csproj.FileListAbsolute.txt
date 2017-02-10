@@ -1,0 +1,17 @@
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.Form1.resources
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.Properties.Resources.resources
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.csproj.GenerateResource.Cache
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\bin\Debug\jisuanqi.exe
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\bin\Debug\jisuanqi.pdb
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.exe
+C:\Users\zhong\Desktop\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.pdb
+D:\learn\C#学习\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.exe
+D:\learn\C#学习\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.pdb
+D:\learn\C#学习\jisuanqi\jisuanqi\bin\Debug\jisuanqi.exe
+D:\learn\C#学习\jisuanqi\jisuanqi\bin\Debug\jisuanqi.pdb
+D:\learn\C#学习\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.csprojResolveAssemblyReference.cache
+D:\learn\C#学习\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.Form1.resources
+D:\learn\C#学习\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.Properties.Resources.resources
+D:\learn\C#学习\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.csproj.GenerateResource.Cache
+D:\learn\C#学习\计算器\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.exe
+D:\learn\C#学习\计算器\jisuanqi\jisuanqi\obj\x86\Debug\jisuanqi.pdb
